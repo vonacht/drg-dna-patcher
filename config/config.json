@@ -1,0 +1,72 @@
+{
+  "DNA": {
+    "Mining": [
+      "DNA_2_02.uasset",
+      "DNA_2_03.uasset",
+      "DNA_2_04.uasset",
+      "DNA_2_05.uasset"
+    ],
+    "Eggs": [
+      "DNA_FracturedSimple.uasset",
+      "DNA_Fractured_Medium.uasset",
+      "DNA_Fractured_Complex.uasset"
+    ],
+    "Salvage": [
+      "DNA_SalvageFractured_Complex.uasset",
+      "DNA_SalvageFractured_Medium.uasset"
+    ],
+    "Refinery": [
+      "DNA_Refinery_Medium.uasset",
+      "DNA_Refinery_Complex.uasset"
+    ],
+    "Escort": [
+      "DNA_Escort_MediumAverage.uasset",
+      "DNA_Escort_MediumComplex.uasset",
+      "DNA_Escort_LongAverage.uasset",
+      "DNA_Escort_LongComplex.uasset"
+    ],
+    "Elimination": [
+      "DNA_Star_Medium.uasset",
+      "DNA_Star_Complex.uasset"
+    ]
+  },
+  "Tags": {
+    "Mining": {
+      "Rooms.Linear.Small": "Rooms.Linear.CustomTest",
+      "Rooms.Linear.Medium": "Rooms.Linear.CustomMedium",
+      "Rooms.Linear.Big": "Rooms.Linear.CustomBig",
+      "Rooms.Linear.MiniLevel": "Rooms.Linear.CustomBig"
+    },
+    "Eggs": {
+      "Rooms.Linear.Small": "Rooms.Linear.CustomSmall",
+      "Rooms.Linear.Medium": "Rooms.Linear.CustomMedium",
+      "Rooms.Linear.Big": "Rooms.Linear.CustomBig",
+      "Rooms.Linear.MiniLevel": "Rooms.Linear.CustomBig"
+    },
+    "Salvage": {
+      "Rooms.Linear.Small": "Rooms.Linear.CustomSmall",
+      "Rooms.Linear.Medium": "Rooms.Linear.CustomMedium",
+      "Rooms.Linear.Big": "Rooms.Linear.CustomBig",
+      "Rooms.Linear.MiniLevel": "Rooms.Linear.CustomBig"
+    },
+    "Refinery": {
+      "Rooms.Linear.Small": "Rooms.Linear.CustomSmall",
+      "Rooms.Linear.Flat": "Rooms.Linear.CustomSmall",
+      "Rooms.Linear.Medium": "Rooms.Linear.CustomMedium",
+      "Rooms.Linear.Big": "Rooms.Linear.CustomBig",
+      "Rooms.Linear.MiniLevel": "Rooms.Linear.CustomBig"
+    },
+    "Escort": {
+      "Rooms.Linear.Small": "Rooms.Linear.CustomSmall",
+      "Rooms.Linear.Medium": "Rooms.Linear.CustomMedium",
+      "Rooms.Linear.Big": "Rooms.Linear.CustomBig",
+      "Rooms.Linear.MiniLevel": "Rooms.Linear.CustomBig"
+    },
+    "Elimination": {
+      "Rooms.Linear.Small": "Rooms.Linear.CustomSmall",
+      "Rooms.Linear.Medium": "Rooms.Linear.CustomMedium",
+      "Rooms.Linear.Big": "Rooms.Linear.CustomBig",
+      "Rooms.Linear.MiniLevel": "Rooms.Linear.CustomBig"
+    }
+  }
+}
